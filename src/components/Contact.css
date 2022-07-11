@@ -1,0 +1,10 @@
+.fab {
+  font-size: 100px;
+  margin-right: 50px;
+  cursor: pointer;
+  color: var(--theme-primary-color);
+}
+
+.fab:hover {
+  color: var(--theme-on-background);
+}

@@ -1,0 +1,24 @@
+.light {
+  --theme-primary-color: rgb(255, 92, 92);
+  --theme-primary-variant: #ff2d2d;
+  --theme-secondary-color: #1b9999;
+  --theme-on-primary: rgb(250, 250, 250);
+  --theme-on-background: rgb(66, 66, 66);
+  --theme-on-background-alt: rgba(66, 66, 66, 0.7);
+  --theme-background: rgb(255, 255, 255);
+  --theme-box-shadow: 0 5px 20px 1px rgba(0, 0, 0, 0.5);
+  --theme-nav-background: rgb(255 255 255 / 50%);
+  --theme-text-box-background: rgb(0 0 0 / 50%);
+}
+
+.dark {
+  --theme-primary-color: rgb(150, 65, 255);
+  --theme-primary-variant: #6c63ff;
+  --theme-secondary-color: #03dac5;
+  --theme-on-primary: #000;
+  --theme-on-background: rgba(255, 255, 255, 0.9);
+  --theme-on-background-alt: rgba(255, 255, 255, 0.7);
+  --theme-background: #121212;
+  --theme-nav-background: rgb(0 0 0 / 50%);
+  --theme-text-box-background: rgb(255 255 255 / 50%);
+}
